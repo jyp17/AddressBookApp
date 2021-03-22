@@ -26,4 +26,5 @@ TO USE THE APP:
 2. Click on the "Add" button to add the contact to the address book.
 
 3. A list of contact names that have been added will appear below the text field. Presently, only the first name of the contacts that you have typed and added will appear on the list.
+
 ![List of names](https://user-images.githubusercontent.com/78005425/112071584-4f96bc80-8b2d-11eb-940c-5c8323e895eb.png)
